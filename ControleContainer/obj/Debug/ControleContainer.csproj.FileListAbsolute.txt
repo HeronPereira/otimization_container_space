@@ -1,0 +1,8 @@
+D:\Arquivos\Cursos Online\ControleCaixas\ControleContainer\ControleContainer\bin\Debug\ControleContainer.exe.config
+D:\Arquivos\Cursos Online\ControleCaixas\ControleContainer\ControleContainer\bin\Debug\ControleContainer.exe
+D:\Arquivos\Cursos Online\ControleCaixas\ControleContainer\ControleContainer\bin\Debug\ControleContainer.pdb
+D:\Arquivos\Cursos Online\ControleCaixas\ControleContainer\ControleContainer\obj\Debug\ControleContainer.csprojResolveAssemblyReference.cache
+D:\Arquivos\Cursos Online\ControleCaixas\ControleContainer\ControleContainer\obj\Debug\ControleContainer.csproj.CoreCompileInputs.cache
+D:\Arquivos\Cursos Online\ControleCaixas\ControleContainer\ControleContainer\obj\Debug\ControleContainer.exe
+D:\Arquivos\Cursos Online\ControleCaixas\ControleContainer\ControleContainer\obj\Debug\ControleContainer.pdb
+D:\Arquivos\Cursos Online\ControleCaixas\ControleContainer\ControleContainer\bin\Debug\Microsoft.Solver.Foundation.dll

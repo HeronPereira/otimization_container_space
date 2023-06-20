@@ -1,0 +1,13 @@
+Valor máximo de caixa 1 no container: 160
+Valor máximo de caixa 2 no container: 189
+Valor máximo de caixa 3 no container: 300
+Valor máximo de caixa 4 no container: 285
+Valor máximo de caixa 5 no container: 207
+---------------------------
+----------Parte 2----------
+---------------------------
+Número máximo de caixas 1: 0
+Número máximo de caixas 2: 0
+Número máximo de caixas 3: 200
+Número máximo de caixas 4: 93
+Número máximo de caixas 5: 0
